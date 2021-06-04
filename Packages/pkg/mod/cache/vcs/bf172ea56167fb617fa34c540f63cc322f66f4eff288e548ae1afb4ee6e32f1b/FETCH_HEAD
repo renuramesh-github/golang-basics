@@ -1,0 +1,4 @@
+6b765ca45afff9edc20ddd7cb7ee136a77bf8cc9		branch 'abrander-no-send-after-shutdown' of https://github.com/streadway/amqp
+e6b33f460591b0acb2f13b04ef9cf493720ffe17		branch 'master' of https://github.com/streadway/amqp
+e26a00d2c2dfbe9442472c96c56ff5c29446a5ff		branch 'update-dial-tls-example' of https://github.com/streadway/amqp
+1c71cc93ed716f9a6f4c2ae8955c25f9176d9f19		tag 'v1.0.0' of https://github.com/streadway/amqp
